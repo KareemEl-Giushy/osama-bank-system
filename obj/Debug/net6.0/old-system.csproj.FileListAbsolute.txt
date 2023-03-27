@@ -1,0 +1,15 @@
+D:\Session\Banking Service\Osama\old-system\bin\Debug\net6.0\old-system.exe
+D:\Session\Banking Service\Osama\old-system\bin\Debug\net6.0\old-system.deps.json
+D:\Session\Banking Service\Osama\old-system\bin\Debug\net6.0\old-system.runtimeconfig.json
+D:\Session\Banking Service\Osama\old-system\bin\Debug\net6.0\old-system.dll
+D:\Session\Banking Service\Osama\old-system\bin\Debug\net6.0\old-system.pdb
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\old-system.csproj.AssemblyReference.cache
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\old-system.GeneratedMSBuildEditorConfig.editorconfig
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\old-system.AssemblyInfoInputs.cache
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\old-system.AssemblyInfo.cs
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\old-system.csproj.CoreCompileInputs.cache
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\old-system.dll
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\refint\old-system.dll
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\old-system.pdb
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\old-system.genruntimeconfig.cache
+D:\Session\Banking Service\Osama\old-system\obj\Debug\net6.0\ref\old-system.dll
